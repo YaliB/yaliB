@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on:
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yaliB&repo=corebot&show_owner=true) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/yaliB/CoreBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaliB&repo=corebot&show_owner=true" />
 </a>
 <a href="https://github.com/yaliB/YourGame-Official-DiscordBot">
