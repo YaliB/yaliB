@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/20368/screenshots/3953268/api_anim.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Image">
+<!-- <img src="https://cdn.dribbble.com/users/20368/screenshots/3953268/api_anim.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Image"> -->
 
 ### Hi there, Its Zedus! 👋
 
