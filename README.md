@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... ⭐
 -->
 <p align="left"> 
-![Yali's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaliB&show_icons=true&hide=issues,contribs&count_private=true)
-</p>
+  <a href="https://github.com/yaliB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaliB&show_icons=true&hide=issues,contribs&count_private=true" />
+</a>
+
 <!-- 
 ![Yali's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaliB&show_icons=true)
 #options:
@@ -36,6 +38,7 @@ Here are some ideas to get you started:
 -->
 
 [oof?](https://www.youtube.com/watch?v=JlmzUEQxOvA)
+</p>
 
 ### 🚀 Languages in my commonly used:
 
