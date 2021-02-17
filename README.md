@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaliB&repo=corebot&show_owner=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/yaliB/YourGame-Official-DiscordBot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaliB&repo=YourGame-Official-DiscordBot&show_owner=true" />
 </a>
 
