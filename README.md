@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [oof?](https://www.youtube.com/watch?v=JlmzUEQxOvA)
 </p>
 
-### 🚀 Languages in my commonly used:
+### 🚀 Languages:
 
 <code><img height="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c1a8f4dfd9334aeb28220dbad6175d47e6332823/logos/c-sharp.svg" alt="C#"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL"/></code>
@@ -55,7 +55,6 @@ Here are some ideas to get you started:
 #### 📫 How to reach me:
 - [My Discord](https://discord.com/users/193483116504023040)
 - [My Steam](https://steamcommunity.com/id/ZedAGever/)
-- ~My DiscordBot Server~ Soon.
 
 ### 🔭 I’m currently working on:
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yaliB&repo=corebot&show_owner=true) -->
